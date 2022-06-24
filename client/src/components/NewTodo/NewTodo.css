@@ -1,0 +1,7 @@
+.todo-form__new-task {
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+  align-items: center;
+  margin: 1rem
+}
